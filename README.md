@@ -65,14 +65,14 @@ To use ELMo, set ``--elmo`` to 1. To use ELMo without GloVe, additionally set ``
 If you use this code or GLUE, please consider citing us.
 
 ```
- @unpublished{wang2018glue
-     title={{GLUE}: A Multi-Task Benchmark and Analysis Platform for
-             Natural Language Understanding}
-     author={Wang, Alex and Singh, Amanpreet and Michael, Julian and Hill,
-             Felix and Levy, Omer and Bowman, Samuel R.}
-     note={arXiv preprint 1804.07461}
-     year={2018}
- }
+@inproceedings{
+  wang2018glue,
+  title={{GLUE}: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding},
+  author={Alex Wang and Amanpreet Singh and Julian Michael and Felix Hill and Omer Levy and Samuel R. Bowman},
+  booktitle={International Conference on Learning Representations},
+  year={2019},
+  url={https://openreview.net/forum?id=rJ4km2R5t7},
+}
 ```
 
 Feel free to contact alexwang _at_ nyu.edu with any questions or comments.
